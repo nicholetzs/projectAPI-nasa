@@ -2,6 +2,8 @@
 A small project using a NASA API, which shows the picture of the day! ˗ˏˋ ★ˎˊ˗
 Below are the steps you can take to include this project in your portfolio!
 
+1. Visite the site https://api.nasa.gov/
+2. Images used https://www.nasa.gov/multimedia/imagegallery/iotd.html
 
 *Explaining the Java Script part:*
 
